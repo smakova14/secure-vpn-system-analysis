@@ -84,10 +84,10 @@ graph TD
 * Анализ нормативной документации подтверждает необходимость использования сертифицированных крипто-провайдеров для передачи данных уровня "Конфиденциально".
 
 ---
-## 📂 Структура репозитория
-* [📂 /requirements](docs/requirements.md) — Полная спецификация требований (SRS).
-* [📂 /diagrams/](diagrams/) — Схемы и модели процессов (Mermaid/Markdown).
-* [📂 /regulations/](regulations/compliance_analysis.md) — Анализ соответствия нормам ИБ (ФЗ-152, ФСТЭК).
+## 📂 Структура проекта
+* [Requirements](docs/requirements.md) — Техническое задание и матрица трассировки.
+* [Diagrams](diagrams/) — Визуализация процессов (Data Flow, Sequence, State).
+* [Compliance Analysis](regulations/compliance_analysis.md) — Анализ нормативной базы (ФСТЭК, ФЗ-152).
 
 ---
 *Проект выполнен в рамках портфолио системного аналитика.*
