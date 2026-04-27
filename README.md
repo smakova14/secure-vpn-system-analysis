@@ -85,7 +85,7 @@ graph TD
 
 ---
 ## 📂 Структура репозитория
-* [📂/ requirements](docs/requirements.md) — Полная спецификация требований (SRS).
+* [📂 /requirements](docs/requirements.md) — Полная спецификация требований (SRS).
 * [📂 /diagrams/](diagrams/) — Схемы и модели процессов (Mermaid/Markdown).
 * [📂 /regulations/](regulations/compliance_analysis.md) — Анализ соответствия нормам ИБ (ФЗ-152, ФСТЭК).
 
